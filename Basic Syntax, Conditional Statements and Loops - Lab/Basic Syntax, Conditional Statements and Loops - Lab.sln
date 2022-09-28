@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Syntax, Conditional Statements and Loops - Lab", "Basic Syntax, Conditional Statements and Loops - Lab\Basic Syntax, Conditional Statements and Loops - Lab.csproj", "{A901FCFA-0A0A-423A-9E2E-B4547DBA18B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A901FCFA-0A0A-423A-9E2E-B4547DBA18B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A901FCFA-0A0A-423A-9E2E-B4547DBA18B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A901FCFA-0A0A-423A-9E2E-B4547DBA18B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A901FCFA-0A0A-423A-9E2E-B4547DBA18B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8036649F-FD4C-4B25-898B-74A8AC94598C}
+	EndGlobalSection
+EndGlobal
