@@ -1,0 +1,16 @@
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\bin\Release\net5.0\04.Back in 30 Minutes.exe
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\bin\Release\net5.0\04.Back in 30 Minutes.deps.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\bin\Release\net5.0\04.Back in 30 Minutes.runtimeconfig.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\bin\Release\net5.0\04.Back in 30 Minutes.runtimeconfig.dev.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\bin\Release\net5.0\04.Back in 30 Minutes.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\bin\Release\net5.0\04.Back in 30 Minutes.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Release\net5.0\04.Back in 30 Minutes.csproj.AssemblyReference.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Release\net5.0\04.Back in 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Release\net5.0\04.Back in 30 Minutes.AssemblyInfoInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Release\net5.0\04.Back in 30 Minutes.AssemblyInfo.cs
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Release\net5.0\04.Back in 30 Minutes.csproj.CoreCompileInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Release\net5.0\04.Back in 30 Minutes.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Release\net5.0\refint\04.Back in 30 Minutes.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Release\net5.0\04.Back in 30 Minutes.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Release\net5.0\04.Back in 30 Minutes.genruntimeconfig.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Release\net5.0\ref\04.Back in 30 Minutes.dll

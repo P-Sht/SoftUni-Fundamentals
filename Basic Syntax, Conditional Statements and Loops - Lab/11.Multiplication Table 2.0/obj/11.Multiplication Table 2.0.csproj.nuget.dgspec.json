@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petya\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab1\\11.Multiplication Table 2.0\\11.Multiplication Table 2.0.csproj": {}
+    "G:\\PETYA\\CODE\\Repo\\SoftUni-Fundamentals\\Basic Syntax, Conditional Statements and Loops - Lab\\11.Multiplication Table 2.0\\11.Multiplication Table 2.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petya\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab1\\11.Multiplication Table 2.0\\11.Multiplication Table 2.0.csproj": {
+    "G:\\PETYA\\CODE\\Repo\\SoftUni-Fundamentals\\Basic Syntax, Conditional Statements and Loops - Lab\\11.Multiplication Table 2.0\\11.Multiplication Table 2.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petya\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab1\\11.Multiplication Table 2.0\\11.Multiplication Table 2.0.csproj",
+        "projectUniqueName": "G:\\PETYA\\CODE\\Repo\\SoftUni-Fundamentals\\Basic Syntax, Conditional Statements and Loops - Lab\\11.Multiplication Table 2.0\\11.Multiplication Table 2.0.csproj",
         "projectName": "11.Multiplication Table 2.0",
-        "projectPath": "C:\\Users\\Petya\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab1\\11.Multiplication Table 2.0\\11.Multiplication Table 2.0.csproj",
+        "projectPath": "G:\\PETYA\\CODE\\Repo\\SoftUni-Fundamentals\\Basic Syntax, Conditional Statements and Loops - Lab\\11.Multiplication Table 2.0\\11.Multiplication Table 2.0.csproj",
         "packagesPath": "C:\\Users\\Petya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petya\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab1\\11.Multiplication Table 2.0\\obj\\",
+        "outputPath": "G:\\PETYA\\CODE\\Repo\\SoftUni-Fundamentals\\Basic Syntax, Conditional Statements and Loops - Lab\\11.Multiplication Table 2.0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,16 @@
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\bin\Release\net5.0\11.Multiplication Table 2.0.exe
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\bin\Release\net5.0\11.Multiplication Table 2.0.deps.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\bin\Release\net5.0\11.Multiplication Table 2.0.runtimeconfig.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\bin\Release\net5.0\11.Multiplication Table 2.0.runtimeconfig.dev.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\bin\Release\net5.0\11.Multiplication Table 2.0.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\bin\Release\net5.0\11.Multiplication Table 2.0.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\obj\Release\net5.0\11.Multiplication Table 2.0.csproj.AssemblyReference.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\obj\Release\net5.0\11.Multiplication Table 2.0.GeneratedMSBuildEditorConfig.editorconfig
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\obj\Release\net5.0\11.Multiplication Table 2.0.AssemblyInfoInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\obj\Release\net5.0\11.Multiplication Table 2.0.AssemblyInfo.cs
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\obj\Release\net5.0\11.Multiplication Table 2.0.csproj.CoreCompileInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\obj\Release\net5.0\11.Multiplication Table 2.0.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\obj\Release\net5.0\refint\11.Multiplication Table 2.0.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\obj\Release\net5.0\11.Multiplication Table 2.0.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\obj\Release\net5.0\11.Multiplication Table 2.0.genruntimeconfig.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\11.Multiplication Table 2.0\obj\Release\net5.0\ref\11.Multiplication Table 2.0.dll

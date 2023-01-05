@@ -1,0 +1,16 @@
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Release\net5.0\05.Month Printer.exe
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Release\net5.0\05.Month Printer.deps.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Release\net5.0\05.Month Printer.runtimeconfig.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Release\net5.0\05.Month Printer.runtimeconfig.dev.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Release\net5.0\05.Month Printer.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Release\net5.0\05.Month Printer.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Release\net5.0\05.Month Printer.csproj.AssemblyReference.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Release\net5.0\05.Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Release\net5.0\05.Month Printer.AssemblyInfoInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Release\net5.0\05.Month Printer.AssemblyInfo.cs
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Release\net5.0\05.Month Printer.csproj.CoreCompileInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Release\net5.0\05.Month Printer.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Release\net5.0\refint\05.Month Printer.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Release\net5.0\05.Month Printer.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Release\net5.0\05.Month Printer.genruntimeconfig.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Release\net5.0\ref\05.Month Printer.dll

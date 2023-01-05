@@ -1,0 +1,16 @@
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\bin\Release\net5.0\08.Divisible by 3.exe
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\bin\Release\net5.0\08.Divisible by 3.deps.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\bin\Release\net5.0\08.Divisible by 3.runtimeconfig.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\bin\Release\net5.0\08.Divisible by 3.runtimeconfig.dev.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\bin\Release\net5.0\08.Divisible by 3.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\bin\Release\net5.0\08.Divisible by 3.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\obj\Release\net5.0\08.Divisible by 3.csproj.AssemblyReference.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\obj\Release\net5.0\08.Divisible by 3.GeneratedMSBuildEditorConfig.editorconfig
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\obj\Release\net5.0\08.Divisible by 3.AssemblyInfoInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\obj\Release\net5.0\08.Divisible by 3.AssemblyInfo.cs
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\obj\Release\net5.0\08.Divisible by 3.csproj.CoreCompileInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\obj\Release\net5.0\08.Divisible by 3.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\obj\Release\net5.0\refint\08.Divisible by 3.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\obj\Release\net5.0\08.Divisible by 3.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\obj\Release\net5.0\08.Divisible by 3.genruntimeconfig.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\8.Divisible by 3\obj\Release\net5.0\ref\08.Divisible by 3.dll

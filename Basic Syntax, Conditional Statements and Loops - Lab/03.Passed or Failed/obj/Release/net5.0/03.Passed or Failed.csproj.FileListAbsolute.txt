@@ -1,0 +1,16 @@
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\bin\Release\net5.0\03.Passed or Failed.exe
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\bin\Release\net5.0\03.Passed or Failed.deps.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\bin\Release\net5.0\03.Passed or Failed.runtimeconfig.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\bin\Release\net5.0\03.Passed or Failed.runtimeconfig.dev.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\bin\Release\net5.0\03.Passed or Failed.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\bin\Release\net5.0\03.Passed or Failed.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Release\net5.0\03.Passed or Failed.csproj.AssemblyReference.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Release\net5.0\03.Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Release\net5.0\03.Passed or Failed.AssemblyInfoInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Release\net5.0\03.Passed or Failed.AssemblyInfo.cs
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Release\net5.0\03.Passed or Failed.csproj.CoreCompileInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Release\net5.0\03.Passed or Failed.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Release\net5.0\refint\03.Passed or Failed.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Release\net5.0\03.Passed or Failed.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Release\net5.0\03.Passed or Failed.genruntimeconfig.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Passed\obj\Release\net5.0\ref\03.Passed or Failed.dll

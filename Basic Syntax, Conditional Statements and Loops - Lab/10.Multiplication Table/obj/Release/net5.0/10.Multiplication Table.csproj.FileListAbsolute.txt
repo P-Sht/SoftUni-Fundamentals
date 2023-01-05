@@ -1,0 +1,16 @@
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\bin\Release\net5.0\10.Multiplication Table.exe
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\bin\Release\net5.0\10.Multiplication Table.deps.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\bin\Release\net5.0\10.Multiplication Table.runtimeconfig.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\bin\Release\net5.0\10.Multiplication Table.runtimeconfig.dev.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\bin\Release\net5.0\10.Multiplication Table.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\bin\Release\net5.0\10.Multiplication Table.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\obj\Release\net5.0\10.Multiplication Table.csproj.AssemblyReference.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\obj\Release\net5.0\10.Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\obj\Release\net5.0\10.Multiplication Table.AssemblyInfoInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\obj\Release\net5.0\10.Multiplication Table.AssemblyInfo.cs
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\obj\Release\net5.0\10.Multiplication Table.csproj.CoreCompileInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\obj\Release\net5.0\10.Multiplication Table.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\obj\Release\net5.0\refint\10.Multiplication Table.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\obj\Release\net5.0\10.Multiplication Table.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\obj\Release\net5.0\10.Multiplication Table.genruntimeconfig.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.Multiplication Table\obj\Release\net5.0\ref\10.Multiplication Table.dll
