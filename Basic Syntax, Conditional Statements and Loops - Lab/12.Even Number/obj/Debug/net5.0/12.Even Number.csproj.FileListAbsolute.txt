@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\bin\Debug\net5.0\12.Even Number.exe
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\bin\Debug\net5.0\12.Even Number.deps.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\bin\Debug\net5.0\12.Even Number.runtimeconfig.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\bin\Debug\net5.0\12.Even Number.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\bin\Debug\net5.0\12.Even Number.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\bin\Debug\net5.0\12.Even Number.pdb
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\obj\Debug\net5.0\12.Even Number.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\obj\Debug\net5.0\12.Even Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\obj\Debug\net5.0\12.Even Number.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\obj\Debug\net5.0\12.Even Number.AssemblyInfo.cs
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\obj\Debug\net5.0\12.Even Number.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\obj\Debug\net5.0\12.Even Number.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\obj\Debug\net5.0\refint\12.Even Number.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\obj\Debug\net5.0\12.Even Number.pdb
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\obj\Debug\net5.0\12.Even Number.genruntimeconfig.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\12.Even Number\obj\Debug\net5.0\ref\12.Even Number.dll

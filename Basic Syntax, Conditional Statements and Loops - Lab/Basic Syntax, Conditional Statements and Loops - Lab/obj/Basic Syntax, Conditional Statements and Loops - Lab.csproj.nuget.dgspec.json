@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petya\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab.csproj": {}
+    "G:\\PETYA\\CODE\\Repo\\SoftUni-Fundamentals\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petya\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab.csproj": {
+    "G:\\PETYA\\CODE\\Repo\\SoftUni-Fundamentals\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petya\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab.csproj",
+        "projectUniqueName": "G:\\PETYA\\CODE\\Repo\\SoftUni-Fundamentals\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab.csproj",
         "projectName": "Basic Syntax, Conditional Statements and Loops - Lab",
-        "projectPath": "C:\\Users\\Petya\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab.csproj",
+        "projectPath": "G:\\PETYA\\CODE\\Repo\\SoftUni-Fundamentals\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab.csproj",
         "packagesPath": "C:\\Users\\Petya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petya\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab\\obj\\",
+        "outputPath": "G:\\PETYA\\CODE\\Repo\\SoftUni-Fundamentals\\Basic Syntax, Conditional Statements and Loops - Lab\\Basic Syntax, Conditional Statements and Loops - Lab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

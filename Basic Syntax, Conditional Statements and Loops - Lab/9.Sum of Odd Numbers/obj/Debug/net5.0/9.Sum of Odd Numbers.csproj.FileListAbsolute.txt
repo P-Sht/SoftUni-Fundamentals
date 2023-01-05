@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\bin\Debug\net5.0\9.Sum of Odd Numbers.exe
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\bin\Debug\net5.0\9.Sum of Odd Numbers.deps.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\bin\Debug\net5.0\9.Sum of Odd Numbers.runtimeconfig.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\bin\Debug\net5.0\9.Sum of Odd Numbers.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\bin\Debug\net5.0\9.Sum of Odd Numbers.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\bin\Debug\net5.0\9.Sum of Odd Numbers.pdb
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\obj\Debug\net5.0\9.Sum of Odd Numbers.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\obj\Debug\net5.0\9.Sum of Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\obj\Debug\net5.0\9.Sum of Odd Numbers.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\obj\Debug\net5.0\9.Sum of Odd Numbers.AssemblyInfo.cs
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\obj\Debug\net5.0\9.Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\obj\Debug\net5.0\9.Sum of Odd Numbers.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\obj\Debug\net5.0\refint\9.Sum of Odd Numbers.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\obj\Debug\net5.0\9.Sum of Odd Numbers.pdb
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\obj\Debug\net5.0\9.Sum of Odd Numbers.genruntimeconfig.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\9.Sum of Odd Numbers\obj\Debug\net5.0\ref\9.Sum of Odd Numbers.dll

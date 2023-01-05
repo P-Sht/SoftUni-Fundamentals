@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\bin\Debug\net5.0\Passed.exe
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\bin\Debug\net5.0\Passed.deps.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\bin\Debug\net5.0\Passed.runtimeconfig.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\bin\Debug\net5.0\Passed.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\bin\Debug\net5.0\Passed.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\bin\Debug\net5.0\Passed.pdb
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\obj\Debug\net5.0\Passed.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\obj\Debug\net5.0\Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\obj\Debug\net5.0\Passed.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\obj\Debug\net5.0\Passed.AssemblyInfo.cs
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\obj\Debug\net5.0\Passed.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\obj\Debug\net5.0\Passed.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\obj\Debug\net5.0\refint\Passed.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\obj\Debug\net5.0\Passed.pdb
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\obj\Debug\net5.0\Passed.genruntimeconfig.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\Passed\obj\Debug\net5.0\ref\Passed.dll

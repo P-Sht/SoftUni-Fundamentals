@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\bin\Debug\net5.0\7.Theatre Promotions.exe
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\bin\Debug\net5.0\7.Theatre Promotions.deps.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\bin\Debug\net5.0\7.Theatre Promotions.runtimeconfig.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\bin\Debug\net5.0\7.Theatre Promotions.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\bin\Debug\net5.0\7.Theatre Promotions.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\bin\Debug\net5.0\7.Theatre Promotions.pdb
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\obj\Debug\net5.0\7.Theatre Promotions.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\obj\Debug\net5.0\7.Theatre Promotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\obj\Debug\net5.0\7.Theatre Promotions.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\obj\Debug\net5.0\7.Theatre Promotions.AssemblyInfo.cs
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\obj\Debug\net5.0\7.Theatre Promotions.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\obj\Debug\net5.0\7.Theatre Promotions.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\obj\Debug\net5.0\refint\7.Theatre Promotions.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\obj\Debug\net5.0\7.Theatre Promotions.pdb
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\obj\Debug\net5.0\7.Theatre Promotions.genruntimeconfig.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\7.Theatre Promotions\obj\Debug\net5.0\ref\7.Theatre Promotions.dll

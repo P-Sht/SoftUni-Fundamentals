@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\bin\Debug\net5.0\10.Multiplication Table.exe
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\bin\Debug\net5.0\10.Multiplication Table.deps.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\bin\Debug\net5.0\10.Multiplication Table.runtimeconfig.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\bin\Debug\net5.0\10.Multiplication Table.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\bin\Debug\net5.0\10.Multiplication Table.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\bin\Debug\net5.0\10.Multiplication Table.pdb
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\obj\Debug\net5.0\10.Multiplication Table.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\obj\Debug\net5.0\10.Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\obj\Debug\net5.0\10.Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\obj\Debug\net5.0\10.Multiplication Table.AssemblyInfo.cs
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\obj\Debug\net5.0\10.Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\obj\Debug\net5.0\10.Multiplication Table.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\obj\Debug\net5.0\refint\10.Multiplication Table.dll
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\obj\Debug\net5.0\10.Multiplication Table.pdb
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\obj\Debug\net5.0\10.Multiplication Table.genruntimeconfig.cache
+C:\Users\Petya\source\repos\Basic Syntax, Conditional Statements and Loops - Lab1\10.Multiplication Table\obj\Debug\net5.0\ref\10.Multiplication Table.dll
