@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.exe
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.deps.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.runtimeconfig.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.AssemblyInfo.cs
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\obj\Debug\net5.0\refint\7. Water Overflow.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.genruntimeconfig.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\7. Water Overflow\obj\Debug\net5.0\ref\7. Water Overflow.dll

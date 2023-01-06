@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\bin\Debug\net5.0\4. Refactoring Prime Checker.exe
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\bin\Debug\net5.0\4. Refactoring Prime Checker.deps.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\bin\Debug\net5.0\4. Refactoring Prime Checker.runtimeconfig.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\bin\Debug\net5.0\4. Refactoring Prime Checker.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\bin\Debug\net5.0\4. Refactoring Prime Checker.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\bin\Debug\net5.0\4. Refactoring Prime Checker.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\obj\Debug\net5.0\4. Refactoring Prime Checker.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\obj\Debug\net5.0\4. Refactoring Prime Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\obj\Debug\net5.0\4. Refactoring Prime Checker.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\obj\Debug\net5.0\4. Refactoring Prime Checker.AssemblyInfo.cs
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\obj\Debug\net5.0\4. Refactoring Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\obj\Debug\net5.0\4. Refactoring Prime Checker.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\obj\Debug\net5.0\refint\4. Refactoring Prime Checker.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\obj\Debug\net5.0\4. Refactoring Prime Checker.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\obj\Debug\net5.0\4. Refactoring Prime Checker.genruntimeconfig.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\4. Refactoring Prime Checker\obj\Debug\net5.0\ref\4. Refactoring Prime Checker.dll

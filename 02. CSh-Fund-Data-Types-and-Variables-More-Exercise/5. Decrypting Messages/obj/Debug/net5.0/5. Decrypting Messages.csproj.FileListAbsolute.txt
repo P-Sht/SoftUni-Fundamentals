@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\bin\Debug\net5.0\5. Decrypting Messages.exe
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\bin\Debug\net5.0\5. Decrypting Messages.deps.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\bin\Debug\net5.0\5. Decrypting Messages.runtimeconfig.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\bin\Debug\net5.0\5. Decrypting Messages.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\bin\Debug\net5.0\5. Decrypting Messages.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\bin\Debug\net5.0\5. Decrypting Messages.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.AssemblyInfo.cs
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\obj\Debug\net5.0\refint\5. Decrypting Messages.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.genruntimeconfig.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\5. Decrypting Messages\obj\Debug\net5.0\ref\5. Decrypting Messages.dll

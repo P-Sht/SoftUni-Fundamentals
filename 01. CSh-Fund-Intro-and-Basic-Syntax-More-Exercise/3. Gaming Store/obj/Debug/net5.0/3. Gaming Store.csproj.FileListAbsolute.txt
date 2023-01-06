@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\bin\Debug\net5.0\3. Gaming Store.exe
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\bin\Debug\net5.0\3. Gaming Store.deps.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\bin\Debug\net5.0\3. Gaming Store.runtimeconfig.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\bin\Debug\net5.0\3. Gaming Store.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\bin\Debug\net5.0\3. Gaming Store.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\bin\Debug\net5.0\3. Gaming Store.pdb
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\obj\Debug\net5.0\3. Gaming Store.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\obj\Debug\net5.0\3. Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\obj\Debug\net5.0\3. Gaming Store.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\obj\Debug\net5.0\3. Gaming Store.AssemblyInfo.cs
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\obj\Debug\net5.0\3. Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\obj\Debug\net5.0\3. Gaming Store.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\obj\Debug\net5.0\refint\3. Gaming Store.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\obj\Debug\net5.0\3. Gaming Store.pdb
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\obj\Debug\net5.0\3. Gaming Store.genruntimeconfig.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\3. Gaming Store\obj\Debug\net5.0\ref\3. Gaming Store.dll

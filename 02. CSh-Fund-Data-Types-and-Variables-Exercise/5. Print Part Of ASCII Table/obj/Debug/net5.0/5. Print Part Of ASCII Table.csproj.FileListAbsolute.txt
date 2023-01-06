@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\bin\Debug\net5.0\5. Print Part Of ASCII Table.exe
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\bin\Debug\net5.0\5. Print Part Of ASCII Table.deps.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\bin\Debug\net5.0\5. Print Part Of ASCII Table.runtimeconfig.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\bin\Debug\net5.0\5. Print Part Of ASCII Table.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\bin\Debug\net5.0\5. Print Part Of ASCII Table.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\bin\Debug\net5.0\5. Print Part Of ASCII Table.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\obj\Debug\net5.0\5. Print Part Of ASCII Table.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\obj\Debug\net5.0\5. Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\obj\Debug\net5.0\5. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\obj\Debug\net5.0\5. Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\obj\Debug\net5.0\5. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\obj\Debug\net5.0\5. Print Part Of ASCII Table.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\obj\Debug\net5.0\refint\5. Print Part Of ASCII Table.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\obj\Debug\net5.0\5. Print Part Of ASCII Table.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\obj\Debug\net5.0\5. Print Part Of ASCII Table.genruntimeconfig.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\5. Print Part Of ASCII Table\obj\Debug\net5.0\ref\5. Print Part Of ASCII Table.dll

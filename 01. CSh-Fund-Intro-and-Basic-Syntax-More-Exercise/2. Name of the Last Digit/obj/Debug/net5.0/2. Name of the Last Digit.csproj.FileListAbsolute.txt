@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\bin\Debug\net5.0\2. Name of the Last Digit.exe
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\bin\Debug\net5.0\2. Name of the Last Digit.deps.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\bin\Debug\net5.0\2. Name of the Last Digit.runtimeconfig.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\bin\Debug\net5.0\2. Name of the Last Digit.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\bin\Debug\net5.0\2. Name of the Last Digit.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\bin\Debug\net5.0\2. Name of the Last Digit.pdb
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\obj\Debug\net5.0\2. Name of the Last Digit.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\obj\Debug\net5.0\2. Name of the Last Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\obj\Debug\net5.0\2. Name of the Last Digit.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\obj\Debug\net5.0\2. Name of the Last Digit.AssemblyInfo.cs
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\obj\Debug\net5.0\2. Name of the Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\obj\Debug\net5.0\2. Name of the Last Digit.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\obj\Debug\net5.0\refint\2. Name of the Last Digit.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\obj\Debug\net5.0\2. Name of the Last Digit.pdb
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\obj\Debug\net5.0\2. Name of the Last Digit.genruntimeconfig.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. Name of the Last Digit\obj\Debug\net5.0\ref\2. Name of the Last Digit.dll

@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\bin\Debug\net5.0\1. Sort numbers.exe
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\bin\Debug\net5.0\1. Sort numbers.deps.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\bin\Debug\net5.0\1. Sort numbers.runtimeconfig.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\bin\Debug\net5.0\1. Sort numbers.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\bin\Debug\net5.0\1. Sort numbers.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\bin\Debug\net5.0\1. Sort numbers.pdb
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\obj\Debug\net5.0\1. Sort numbers.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\obj\Debug\net5.0\1. Sort numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\obj\Debug\net5.0\1. Sort numbers.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\obj\Debug\net5.0\1. Sort numbers.AssemblyInfo.cs
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\obj\Debug\net5.0\1. Sort numbers.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\obj\Debug\net5.0\1. Sort numbers.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\obj\Debug\net5.0\refint\1. Sort numbers.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\obj\Debug\net5.0\1. Sort numbers.pdb
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\obj\Debug\net5.0\1. Sort numbers.genruntimeconfig.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\obj\Debug\net5.0\ref\1. Sort numbers.dll

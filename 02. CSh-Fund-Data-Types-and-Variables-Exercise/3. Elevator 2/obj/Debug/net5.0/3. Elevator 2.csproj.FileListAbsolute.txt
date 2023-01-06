@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\bin\Debug\net5.0\3. Elevator 2.exe
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\bin\Debug\net5.0\3. Elevator 2.deps.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\bin\Debug\net5.0\3. Elevator 2.runtimeconfig.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\bin\Debug\net5.0\3. Elevator 2.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\bin\Debug\net5.0\3. Elevator 2.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\bin\Debug\net5.0\3. Elevator 2.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\obj\Debug\net5.0\3. Elevator 2.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\obj\Debug\net5.0\3. Elevator 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\obj\Debug\net5.0\3. Elevator 2.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\obj\Debug\net5.0\3. Elevator 2.AssemblyInfo.cs
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\obj\Debug\net5.0\3. Elevator 2.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\obj\Debug\net5.0\3. Elevator 2.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\obj\Debug\net5.0\refint\3. Elevator 2.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\obj\Debug\net5.0\3. Elevator 2.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\obj\Debug\net5.0\3. Elevator 2.genruntimeconfig.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\3. Elevator 2\obj\Debug\net5.0\ref\3. Elevator 2.dll

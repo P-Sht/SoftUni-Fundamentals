@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\bin\Debug\net5.0\6. Triples of Latin Letters.exe
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\bin\Debug\net5.0\6. Triples of Latin Letters.deps.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\bin\Debug\net5.0\6. Triples of Latin Letters.runtimeconfig.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\bin\Debug\net5.0\6. Triples of Latin Letters.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\bin\Debug\net5.0\6. Triples of Latin Letters.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\bin\Debug\net5.0\6. Triples of Latin Letters.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.AssemblyInfo.cs
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\obj\Debug\net5.0\refint\6. Triples of Latin Letters.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.genruntimeconfig.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\6. Triples of Latin Letters\obj\Debug\net5.0\ref\6. Triples of Latin Letters.dll

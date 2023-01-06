@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\bin\Debug\net5.0\3. Floating Equality.exe
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\bin\Debug\net5.0\3. Floating Equality.deps.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\bin\Debug\net5.0\3. Floating Equality.runtimeconfig.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\bin\Debug\net5.0\3. Floating Equality.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\bin\Debug\net5.0\3. Floating Equality.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\bin\Debug\net5.0\3. Floating Equality.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\obj\Debug\net5.0\3. Floating Equality.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\obj\Debug\net5.0\3. Floating Equality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\obj\Debug\net5.0\3. Floating Equality.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\obj\Debug\net5.0\3. Floating Equality.AssemblyInfo.cs
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\obj\Debug\net5.0\3. Floating Equality.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\obj\Debug\net5.0\3. Floating Equality.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\obj\Debug\net5.0\refint\3. Floating Equality.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\obj\Debug\net5.0\3. Floating Equality.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\obj\Debug\net5.0\3. Floating Equality.genruntimeconfig.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables-More-Exercise\3. Floating Equality\obj\Debug\net5.0\ref\3. Floating Equality.dll

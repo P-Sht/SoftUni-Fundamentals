@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\bin\Debug\net5.0\10. Lower or Upper.exe
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\bin\Debug\net5.0\10. Lower or Upper.deps.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\bin\Debug\net5.0\10. Lower or Upper.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\bin\Debug\net5.0\10. Lower or Upper.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\obj\Debug\net5.0\10. Lower or Upper.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\obj\Debug\net5.0\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfo.cs
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\obj\Debug\net5.0\10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\obj\Debug\net5.0\10. Lower or Upper.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\obj\Debug\net5.0\refint\10. Lower or Upper.dll
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\obj\Debug\net5.0\10. Lower or Upper.pdb
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\obj\Debug\net5.0\10. Lower or Upper.genruntimeconfig.cache
+C:\Users\Petya\source\repos\02. Fundamentals-Data-Types-and-Variables\02. Fundamentals-Data-Types-and-Variables\obj\Debug\net5.0\ref\10. Lower or Upper.dll
