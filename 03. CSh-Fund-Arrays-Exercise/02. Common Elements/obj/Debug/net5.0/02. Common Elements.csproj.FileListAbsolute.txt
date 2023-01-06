@@ -1,0 +1,16 @@
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.exe
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.deps.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.dev.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.AssemblyReference.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfoInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfo.cs
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.CoreCompileInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\obj\Debug\net5.0\refint\02. Common Elements.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.genruntimeconfig.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\02. Common Elements\obj\Debug\net5.0\ref\02. Common Elements.dll
