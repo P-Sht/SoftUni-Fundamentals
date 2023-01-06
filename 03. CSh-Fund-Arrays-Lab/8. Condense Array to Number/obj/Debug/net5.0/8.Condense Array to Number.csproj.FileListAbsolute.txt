@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\bin\Debug\net5.0\8.Condense Array to Number.exe
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\bin\Debug\net5.0\8.Condense Array to Number.deps.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\bin\Debug\net5.0\8.Condense Array to Number.runtimeconfig.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\bin\Debug\net5.0\8.Condense Array to Number.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\bin\Debug\net5.0\8.Condense Array to Number.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\bin\Debug\net5.0\8.Condense Array to Number.pdb
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\obj\Debug\net5.0\8.Condense Array to Number.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\obj\Debug\net5.0\8.Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\obj\Debug\net5.0\8.Condense Array to Number.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\obj\Debug\net5.0\8.Condense Array to Number.AssemblyInfo.cs
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\obj\Debug\net5.0\8.Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\obj\Debug\net5.0\8.Condense Array to Number.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\obj\Debug\net5.0\refint\8.Condense Array to Number.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\obj\Debug\net5.0\8.Condense Array to Number.pdb
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\obj\Debug\net5.0\8.Condense Array to Number.genruntimeconfig.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8.Condense Array to Number\obj\Debug\net5.0\ref\8.Condense Array to Number.dll

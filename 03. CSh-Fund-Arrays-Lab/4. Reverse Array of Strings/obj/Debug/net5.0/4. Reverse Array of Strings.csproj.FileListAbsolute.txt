@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.exe
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.deps.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.runtimeconfig.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.pdb
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\obj\Debug\net5.0\refint\4. Reverse Array of Strings.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.pdb
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.genruntimeconfig.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\4. Reverse Array of Strings\obj\Debug\net5.0\ref\4. Reverse Array of Strings.dll

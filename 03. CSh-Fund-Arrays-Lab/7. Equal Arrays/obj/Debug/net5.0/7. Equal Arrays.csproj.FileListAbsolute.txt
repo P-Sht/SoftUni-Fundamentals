@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.exe
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.deps.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.runtimeconfig.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.pdb
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.AssemblyInfo.cs
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\obj\Debug\net5.0\refint\7. Equal Arrays.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.pdb
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.genruntimeconfig.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\7. Equal Arrays\obj\Debug\net5.0\ref\7. Equal Arrays.dll

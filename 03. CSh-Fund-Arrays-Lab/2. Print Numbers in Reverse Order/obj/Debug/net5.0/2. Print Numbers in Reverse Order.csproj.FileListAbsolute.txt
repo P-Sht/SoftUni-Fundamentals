@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\bin\Debug\net5.0\2. Print Numbers in Reverse Order.exe
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\bin\Debug\net5.0\2. Print Numbers in Reverse Order.deps.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\bin\Debug\net5.0\2. Print Numbers in Reverse Order.runtimeconfig.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\bin\Debug\net5.0\2. Print Numbers in Reverse Order.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\bin\Debug\net5.0\2. Print Numbers in Reverse Order.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\bin\Debug\net5.0\2. Print Numbers in Reverse Order.pdb
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\obj\Debug\net5.0\refint\2. Print Numbers in Reverse Order.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.pdb
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.genruntimeconfig.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\2. Print Numbers in Reverse Order\obj\Debug\net5.0\ref\2. Print Numbers in Reverse Order.dll

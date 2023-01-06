@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\bin\Debug\net5.0\8. Condense_Array_to_Number 2.exe
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\bin\Debug\net5.0\8. Condense_Array_to_Number 2.deps.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\bin\Debug\net5.0\8. Condense_Array_to_Number 2.runtimeconfig.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\bin\Debug\net5.0\8. Condense_Array_to_Number 2.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\bin\Debug\net5.0\8. Condense_Array_to_Number 2.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\bin\Debug\net5.0\8. Condense_Array_to_Number 2.pdb
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\obj\Debug\net5.0\8. Condense_Array_to_Number 2.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\obj\Debug\net5.0\8. Condense_Array_to_Number 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\obj\Debug\net5.0\8. Condense_Array_to_Number 2.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\obj\Debug\net5.0\8. Condense_Array_to_Number 2.AssemblyInfo.cs
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\obj\Debug\net5.0\8. Condense_Array_to_Number 2.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\obj\Debug\net5.0\8. Condense_Array_to_Number 2.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\obj\Debug\net5.0\refint\8. Condense_Array_to_Number 2.dll
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\obj\Debug\net5.0\8. Condense_Array_to_Number 2.pdb
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\obj\Debug\net5.0\8. Condense_Array_to_Number 2.genruntimeconfig.cache
+C:\Users\Petya\source\repos\03. CSharp-Fundamentals-Arrays-Lab\8. Condense_Array_to_Number 2\obj\Debug\net5.0\ref\8. Condense_Array_to_Number 2.dll
