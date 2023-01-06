@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\bin\Debug\net5.0\2.Division.exe
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\bin\Debug\net5.0\2.Division.deps.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\bin\Debug\net5.0\2.Division.runtimeconfig.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\bin\Debug\net5.0\2.Division.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\bin\Debug\net5.0\2.Division.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\bin\Debug\net5.0\2.Division.pdb
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\obj\Debug\net5.0\2.Division.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\obj\Debug\net5.0\2.Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\obj\Debug\net5.0\2.Division.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\obj\Debug\net5.0\2.Division.AssemblyInfo.cs
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\obj\Debug\net5.0\2.Division.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\obj\Debug\net5.0\2.Division.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\obj\Debug\net5.0\refint\2.Division.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\obj\Debug\net5.0\2.Division.pdb
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\obj\Debug\net5.0\2.Division.genruntimeconfig.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\2.Division\obj\Debug\net5.0\ref\2.Division.dll

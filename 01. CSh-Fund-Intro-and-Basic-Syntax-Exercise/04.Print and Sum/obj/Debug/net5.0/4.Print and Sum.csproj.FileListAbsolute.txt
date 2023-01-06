@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\bin\Debug\net5.0\4.Print and Sum.exe
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\bin\Debug\net5.0\4.Print and Sum.deps.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\bin\Debug\net5.0\4.Print and Sum.runtimeconfig.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\bin\Debug\net5.0\4.Print and Sum.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\bin\Debug\net5.0\4.Print and Sum.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\bin\Debug\net5.0\4.Print and Sum.pdb
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\obj\Debug\net5.0\4.Print and Sum.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\obj\Debug\net5.0\4.Print and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\obj\Debug\net5.0\4.Print and Sum.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\obj\Debug\net5.0\4.Print and Sum.AssemblyInfo.cs
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\obj\Debug\net5.0\4.Print and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\obj\Debug\net5.0\4.Print and Sum.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\obj\Debug\net5.0\refint\4.Print and Sum.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\obj\Debug\net5.0\4.Print and Sum.pdb
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\obj\Debug\net5.0\4.Print and Sum.genruntimeconfig.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\4.Print and Sum\obj\Debug\net5.0\ref\4.Print and Sum.dll

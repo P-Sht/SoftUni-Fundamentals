@@ -1,0 +1,16 @@
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.exe
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.deps.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.runtimeconfig.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.runtimeconfig.dev.json
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.pdb
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.csproj.AssemblyReference.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.AssemblyInfo.cs
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\obj\Debug\net5.0\refint\9. Padawan Equipment.dll
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.pdb
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.genruntimeconfig.cache
+C:\Users\Petya\source\repos\01. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercise\9. Padawan Equipment\obj\Debug\net5.0\ref\9. Padawan Equipment.dll
