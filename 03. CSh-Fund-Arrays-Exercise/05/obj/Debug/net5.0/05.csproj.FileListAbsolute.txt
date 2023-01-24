@@ -1,0 +1,16 @@
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\bin\Debug\net5.0\05.exe
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\bin\Debug\net5.0\05.deps.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\bin\Debug\net5.0\05.runtimeconfig.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\bin\Debug\net5.0\05.runtimeconfig.dev.json
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\bin\Debug\net5.0\05.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\bin\Debug\net5.0\05.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\obj\Debug\net5.0\05.csproj.AssemblyReference.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\obj\Debug\net5.0\05.GeneratedMSBuildEditorConfig.editorconfig
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\obj\Debug\net5.0\05.AssemblyInfoInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\obj\Debug\net5.0\05.AssemblyInfo.cs
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\obj\Debug\net5.0\05.csproj.CoreCompileInputs.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\obj\Debug\net5.0\05.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\obj\Debug\net5.0\refint\05.dll
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\obj\Debug\net5.0\05.pdb
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\obj\Debug\net5.0\05.genruntimeconfig.cache
+G:\PETYA\CODE\Repo\SoftUni-Fundamentals\03. CSh-Fund-Arrays-Exercise\05\obj\Debug\net5.0\ref\05.dll
